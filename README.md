@@ -1,0 +1,1 @@
+# ReleaseElectron_Lotte_TEST_4.0
